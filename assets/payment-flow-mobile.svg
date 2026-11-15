@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="710" viewBox="0 0 720 710" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="title desc">
+  <title id="title">Conceptual payment flow for small screens</title>
+  <desc id="desc">A compact mobile payment sequence showing an application request, routing through orchestration to a payment system, the return result, and a response to the application.</desc>
+  <rect width="720" height="710" fill="#ffffff"/>
+  <text x="40" y="60" fill="#0561e2" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="600" letter-spacing="1.5">CONCEPTUAL PAYMENT FLOW</text>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="110" y="148" fill="#272d40" font-size="20" font-weight="600">APPLICATION</text>
+    <text x="360" y="148" fill="#0561e2" font-size="20" font-weight="600">ORCHESTRATION</text>
+    <g fill="#272d40" font-size="20" font-weight="600">
+      <text x="610" y="127">PAYMENT</text>
+      <text x="610" y="157">SYSTEM</text>
+    </g>
+  </g>
+  <g fill="none" stroke="#91b9fa" stroke-width="2" stroke-dasharray="5 9">
+    <path d="M110 186V635M360 186V635M610 186V635"/>
+  </g>
+  <g fill="none" stroke="#0561e2" stroke-width="2.5">
+    <path d="M143 250H317M393 370H567"/>
+    <path d="M567 490H403M317 610H153"/>
+  </g>
+  <g fill="#0561e2">
+    <path d="M327 250L315 243V257Z"/>
+    <path d="M577 370L565 363V377Z"/>
+    <path d="M393 490L405 483V497Z"/>
+    <path d="M143 610L155 603V617Z"/>
+  </g>
+  <g fill="#272d40" font-family="Arial, Helvetica, sans-serif" font-size="22" text-anchor="middle">
+    <text x="235" y="226">01 · Request</text>
+    <text x="485" y="346">02 · Route</text>
+    <text x="485" y="466">03 · Result</text>
+    <text x="235" y="586">04 · Response</text>
+  </g>
+  <text x="360" y="665" fill="#353639" font-family="Arial, Helvetica, sans-serif" font-size="22" text-anchor="middle">Investigate failure evidence at any step.</text>
+  <text x="360" y="697" fill="#353639" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="middle">Generic flow—not an internal system diagram.</text>
+</svg>

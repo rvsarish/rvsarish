@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="480" viewBox="0 0 720 480" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="title desc">
+  <title id="title">Sarish R V — Solution Engineer at Juspay</title>
+  <desc id="desc">A compact blue-and-white mobile nameplate highlighting Sarish R V, Solution Engineer at Juspay, and his focus on payment orchestration, production incidents, and reliability.</desc>
+  <rect width="720" height="480" fill="#ffffff"/>
+  <path d="M40 40H680" fill="none" stroke="#0561e2" stroke-width="2"/>
+  <text x="40" y="78" fill="#0561e2" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" letter-spacing="2.2">THE SYSTEMS REVIEW</text>
+  <rect x="40" y="112" width="46" height="6" fill="#2b8eff"/>
+  <text x="32" y="220" fill="#272d40" font-family="Georgia, 'Times New Roman', serif" font-size="104" letter-spacing="-3">Sarish R V</text>
+  <text x="40" y="277" fill="#272d40" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="600">Solution Engineer at Juspay</text>
+  <g fill="#353639" font-family="Arial, Helvetica, sans-serif" font-size="24">
+    <text x="40" y="338">Payment orchestration</text>
+    <text x="40" y="378">Production incidents</text>
+    <text x="40" y="418">Reliability</text>
+  </g>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="510" viewBox="0 0 1200 510" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="title desc">
+  <title id="title">Conceptual payment flow</title>
+  <desc id="desc">An application sends a payment request to orchestration. Orchestration routes it to a payment system. The payment result returns to orchestration, and the application receives a response. This is a generic conceptual diagram, not an internal Juspay architecture.</desc>
+  <rect width="1200" height="510" fill="#ffffff"/>
+  <text x="48" y="55" fill="#0561e2" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" letter-spacing="2">CONCEPTUAL PAYMENT FLOW</text>
+  <text x="48" y="88" fill="#353639" font-family="Arial, Helvetica, sans-serif" font-size="18">Application to orchestration to payment system and back</text>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" text-anchor="middle">
+    <text x="160" y="153" fill="#272d40">APPLICATION</text>
+    <text x="600" y="153" fill="#0561e2">ORCHESTRATION</text>
+    <text x="1040" y="153" fill="#272d40">PAYMENT SYSTEM</text>
+  </g>
+  <g fill="none" stroke="#91b9fa" stroke-width="2" stroke-dasharray="5 9">
+    <path d="M160 178V435M600 178V435M1040 178V435"/>
+  </g>
+  <g fill="none" stroke="#0561e2" stroke-width="2.5">
+    <path d="M202 225H547M643 305H987"/>
+    <path d="M987 385H653M548 455H212"/>
+  </g>
+  <g fill="#0561e2">
+    <path d="M557 225L545 218V232Z"/>
+    <path d="M997 305L985 298V312Z"/>
+    <path d="M643 385L655 378V392Z"/>
+    <path d="M202 455L214 448V462Z"/>
+  </g>
+  <g fill="#272d40" font-family="Arial, Helvetica, sans-serif" font-size="22" text-anchor="middle">
+    <text x="380" y="207">01 · Payment request</text>
+    <text x="820" y="287">02 · Routed for processing</text>
+    <text x="820" y="371">03 · Payment result</text>
+    <text x="380" y="441">04 · Response</text>
+  </g>
+  <text x="48" y="493" fill="#353639" font-family="Arial, Helvetica, sans-serif" font-size="18">Failure evidence can be examined at any step.</text>
+</svg>

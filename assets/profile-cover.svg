@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="title desc">
+  <title id="title">Sarish R V — Solution Engineer at Juspay</title>
+  <desc id="desc">A spacious blue-and-white editorial nameplate. Sarish R V's role and focus on payment orchestration, production incidents, and reliability appear above a simple conceptual path from payment request through orchestration to outcome.</desc>
+  <rect width="1200" height="430" fill="#ffffff"/>
+  <path d="M48 28H1152" fill="none" stroke="#0561e2" stroke-width="2"/>
+  <g fill="#0561e2" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" letter-spacing="2.2">
+    <text x="48" y="60">THE SYSTEMS REVIEW</text>
+    <text x="1152" y="60" text-anchor="end">BENGALURU / INDIA</text>
+  </g>
+  <rect x="48" y="91" width="46" height="6" fill="#2b8eff"/>
+  <text x="40" y="196" fill="#272d40" font-family="Georgia, 'Times New Roman', serif" font-size="116" letter-spacing="-3">Sarish R V</text>
+  <text x="48" y="246" fill="#272d40" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="600">Solution Engineer at Juspay</text>
+  <text x="48" y="282" fill="#353639" font-family="Arial, Helvetica, sans-serif" font-size="20">Payment orchestration · Production incidents · Reliability</text>
+
+  <g fill="none" stroke="#91b9fa" stroke-width="2">
+    <path d="M159 343H522M678 343H1041"/>
+  </g>
+  <g fill="#91b9fa">
+    <path d="M522 343L511 337V349Z"/>
+    <path d="M1041 343L1030 337V349Z"/>
+  </g>
+  <g>
+    <circle cx="120" cy="343" r="30" fill="#ffffff" stroke="#0561e2" stroke-width="2"/>
+    <rect x="108" y="334" width="24" height="18" rx="2" fill="none" stroke="#0561e2" stroke-width="1.7"/>
+    <path d="M111 341H129M112 347H118" fill="none" stroke="#0561e2" stroke-width="1.7" stroke-linecap="round"/>
+
+    <circle cx="600" cy="343" r="30" fill="#0561e2"/>
+    <path d="M600 330V336M600 336L590 350M600 336L610 350" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+    <g fill="#ffffff">
+      <circle cx="600" cy="328" r="3.5"/>
+      <circle cx="590" cy="352" r="3.5"/>
+      <circle cx="610" cy="352" r="3.5"/>
+    </g>
+
+    <circle cx="1080" cy="343" r="30" fill="#ffffff" stroke="#0561e2" stroke-width="2"/>
+    <circle cx="1080" cy="343" r="5" fill="#2b8eff"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600" text-anchor="middle" letter-spacing="1.2">
+    <text x="120" y="399" fill="#272d40">PAYMENT REQUEST</text>
+    <text x="600" y="399" fill="#0561e2">ORCHESTRATION</text>
+    <text x="1080" y="399" fill="#272d40">OUTCOME</text>
+  </g>
+</svg>
